@@ -19,7 +19,9 @@ Features
 Important Steps - 
 
 s1 - Download the latest release
+
 s2 - download ffmpeg via https://www.gyan.dev/ffmpeg/builds/
      OR watch this tutorial https://www.youtube.com/watch?v=JR36oH35Fgg
+     
 s3 - Add ffmpeg to your path (Shown in this tutorial)
 
