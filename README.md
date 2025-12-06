@@ -1,5 +1,5 @@
 # Youtube Batch Downloader
-This is a YouTube batch downloader, basically. As a video editor, I had struggled a lot with downloading YouTube videos; there were shady websites with limited functionalities. The best option so far was Yt-dlp, but it was command-line-based. So, I made this Python-based GUI app that lets you download multiple videos together without any problems or ads.
+This is a YouTube batch downloader, basically. As a video editor, I had struggled a lot with downloading YouTube videos; there were shady websites with limited functionalities. The best option so far was Yt-dlp, but it was command line based. So, I made this Python based GUI app that lets you download multiple videos together without any problems or ads.
 
 Here you can download multiple videos together in one go, you can specify whether you want just the audio or both audio and video, and you can choose the specific location of download. Basically, yt-dlp but with a GUI and many more functionalities, and a YouTube video downloader without any ads or delays.
 It automatically downloads the higesht available quality
