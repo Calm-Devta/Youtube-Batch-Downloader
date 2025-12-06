@@ -25,5 +25,5 @@ s2 - download ffmpeg via https://www.gyan.dev/ffmpeg/builds/
      
 s3 - Add ffmpeg to your path (Shown in this tutorial)
 
-"CHOOSE RUN ANYWAY IF THE WINDOWS DON"T ALLOW IT"
+**CHOOSE RUN ANYWAY IF THE WINDOWS DON"T ALLOW IT**
 
